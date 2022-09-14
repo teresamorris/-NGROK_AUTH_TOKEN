@@ -1,6 +1,6 @@
 ame: CI
  
-on: workflow_dispatch
+
  
 jobs:
   build:
